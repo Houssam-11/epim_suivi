@@ -15,7 +15,7 @@ Application web PHP/MySQL destinée au suivi pédagogique d'un établissement de
 1. Placer le projet dans un dossier servi par Apache, par exemple :
 
    ```text
-   C:\xampp\htdocs\STAGE\codex vers\sp - Server v1
+   C:\xampp\htdocs\sp - Server v1
    ```
 
 2. Créer la base de données MySQL :
@@ -39,7 +39,7 @@ Application web PHP/MySQL destinée au suivi pédagogique d'un établissement de
 7. Ouvrir l'application dans le navigateur :
 
    ```text
-   http://localhost/STAGE/codex%20vers/sp%20-%20Server%20v1/
+   http://localhost/sp%20-%20Server%20v1/
    ```
 
 ## Points d'entrée principaux
