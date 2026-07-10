@@ -1,0 +1,301 @@
+[2026-06-24 17:17:00] access_denied | user=- | role=- | ip=CLI | uri=Standard input code | Votre session a expiré. Veuillez vous reconnecter.
+[2026-06-24 17:17:38] access_denied | user=- | role=- | ip=CLI | uri=get_unites.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-06-24 17:17:38] access_denied | user=- | role=- | ip=CLI | uri=Standard input code | Votre session a expiré. Veuillez vous reconnecter.
+[2026-06-24 17:19:44] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-24 17:19:49] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-24 17:20:03] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-24 17:20:48] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_directeur.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-06-24 17:20:57] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-24 17:21:42] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-24 17:21:48] login_failed | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.mar
+[2026-06-24 17:21:53] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 11:26:14] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 11:26:20] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 11:26:23] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-25 11:27:54] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 11:27:58] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 11:42:37] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 11:42:42] login_failed | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.mar
+[2026-06-25 11:42:47] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 11:43:07] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 11:43:36] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-25 11:43:53] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 11:43:58] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 11:45:21] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 12:13:19] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 12:14:13] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 12:14:17] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-25 12:24:44] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 12:24:48] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 12:29:26] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 12:29:30] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-25 12:33:13] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 12:33:17] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 12:37:24] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 12:37:28] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-25 12:51:36] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 12:51:40] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 13:19:56] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 13:20:01] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-25 13:31:05] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 13:31:10] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 16:04:03] session_expired | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/gestion_seances.php?unite_id=28&unite_nom=Comptabilit%C3%A9+g%C3%A9n%C3%A9rale+&annee_scolaire_id=5 | 
+[2026-06-25 16:04:03] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/gestion_seances.php?unite_id=28&unite_nom=Comptabilit%C3%A9+g%C3%A9n%C3%A9rale+&annee_scolaire_id=5 | Votre session a expiré. Veuillez vous reconnecter.
+[2026-06-25 16:45:47] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 16:46:57] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 16:47:00] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-25 17:09:33] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 17:15:08] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-25 17:16:54] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-25 17:16:57] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-26 11:03:02] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-26 11:03:24] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-26 11:03:28] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-26 17:02:43] session_expired | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/validation_seances.php | 
+[2026-06-26 17:02:43] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/validation_seances.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-06-26 17:02:49] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-29 11:01:30] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-29 12:47:03] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 12:47:08] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-29 12:47:34] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 12:47:38] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-29 12:48:11] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 13:04:51] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-29 13:17:12] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 13:17:19] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-29 13:18:05] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 13:18:09] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-29 13:30:20] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 13:30:25] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-29 13:31:32] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 13:31:37] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-29 13:38:00] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 13:38:40] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-29 13:44:51] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 13:45:11] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-29 13:46:34] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 13:46:36] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-29 13:47:31] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 13:47:35] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-29 14:20:09] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-29 14:22:20] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-29 16:26:16] session_expired | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_directeur.php | 
+[2026-06-29 16:26:16] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_directeur.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-06-29 16:27:18] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-30 00:26:25] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/imprimer_fiche_tcpdf.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-06-30 00:26:34] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-30 00:39:35] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-30 00:39:39] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-30 11:25:03] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/imprimer_fiche_tcpdf.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-06-30 11:25:08] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-30 11:42:29] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-30 11:42:32] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-30 11:59:12] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-30 11:59:19] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-30 12:00:07] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-30 12:00:10] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-30 12:01:44] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-30 12:01:48] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-06-30 12:05:17] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-06-30 12:05:21] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-06-30 12:57:03] access_denied | user=- | role=- | ip=CLI | uri=Standard input code | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-01 10:55:40] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/imprimer_fiche_tcpdf.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-01 10:56:11] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-02 11:01:16] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/imprimer_fiche_tcpdf.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-02 11:01:25] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-02 11:02:29] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-02 11:02:33] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-02 11:03:31] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-02 11:50:52] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-02 12:46:40] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-02 12:46:50] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-02 12:50:15] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-02 12:50:24] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-02 12:51:19] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-02 12:51:28] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/gerer_unite.php?id=81&success=1 | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-02 12:51:35] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-02 13:34:30] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/imprimer_fiche_tcpdf.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-02 13:34:36] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-02 13:44:53] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-02 13:44:58] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-02 13:45:39] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-02 13:45:44] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-02 13:54:02] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-02 13:54:16] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-02 17:07:24] session_expired | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_directeur.php | 
+[2026-07-02 17:07:24] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_directeur.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-02 17:07:36] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-02 17:47:27] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-02 17:47:33] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-04 14:02:36] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/imprimer_fiche_tcpdf.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-04 14:02:48] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-04 14:50:37] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-04 14:50:47] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-04 15:02:54] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-04 15:02:58] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-04 15:35:06] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-04 15:35:09] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-04 15:35:38] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-04 15:35:52] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-04 15:41:12] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-04 15:41:15] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-04 16:30:41] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-04 16:30:46] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-04 22:44:40] session_expired | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_formateur.php | 
+[2026-07-04 22:44:40] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_formateur.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-04 22:45:12] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-04 23:56:00] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-04 23:56:04] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-04 23:58:28] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-04 23:58:32] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-04 23:59:02] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-05 00:44:52] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-05 00:53:18] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-05 00:53:23] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-05 01:20:29] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-05 01:20:33] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-05 02:08:07] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-05 02:08:12] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-05 03:27:17] access_denied | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/gerer_unite.php?id=82 | Accès non autorisé.
+[2026-07-05 03:29:23] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-05 03:29:28] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-05 03:45:55] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-05 03:45:57] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_directeur.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-05 23:59:51] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/imprimer_fiche_tcpdf.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-06 00:23:15] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 00:25:46] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 00:25:49] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 00:27:06] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 00:27:35] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 00:27:56] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 00:28:00] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 00:28:20] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 00:28:23] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 00:28:39] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 00:28:42] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 00:29:00] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 00:29:04] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 00:29:22] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 00:29:28] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 00:30:10] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 00:30:14] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 00:30:35] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 00:30:38] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 00:30:45] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 00:36:16] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 01:25:44] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 01:25:48] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 01:26:04] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 01:33:32] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 01:43:36] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 01:43:40] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 01:45:32] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 01:45:35] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 01:45:40] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 01:45:42] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 01:46:01] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 01:46:07] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 02:45:47] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 02:45:50] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 02:48:57] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 02:49:01] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 02:50:12] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 02:50:15] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 03:17:36] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 03:17:40] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 03:19:37] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 03:19:41] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 10:39:39] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/imprimer_fiche_tcpdf.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-06 10:39:50] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 10:48:01] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 10:48:06] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 10:56:34] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 10:56:41] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 11:07:14] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 11:07:20] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 11:18:48] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 11:18:52] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 11:20:37] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 11:20:40] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 11:21:14] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 11:21:18] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 11:28:48] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 11:28:53] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 11:42:57] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 11:43:01] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 11:44:13] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 11:44:15] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 11:44:35] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 11:44:39] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 12:00:39] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 12:00:43] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 12:16:51] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 12:16:55] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-06 12:18:09] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 12:30:49] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-06 13:41:57] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-06 13:45:01] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-07 00:16:20] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_directeur.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-07 00:16:27] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-07 01:58:56] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 01:59:10] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-07 02:00:07] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 02:01:39] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-07 02:38:38] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 02:38:40] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-07 02:43:57] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 02:44:00] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-07 02:45:44] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 02:45:48] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-07 11:04:08] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_directeur.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-07 11:04:15] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-07 13:51:05] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 13:51:10] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-07 14:29:51] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 14:30:00] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-07 14:31:23] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 14:31:27] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-07 14:56:49] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 14:56:55] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-07 15:21:35] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 15:21:38] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-07 15:35:13] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 15:35:17] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-07 15:36:25] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-07 15:36:29] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-08 00:40:45] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_directeur.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-08 01:22:32] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-08 11:30:36] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-09 00:10:38] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_directeur.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-09 00:10:49] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-09 01:15:08] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-09 01:15:13] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-09 01:15:54] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-09 01:15:58] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-09 01:17:00] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-09 01:17:04] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-09 10:53:11] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/tableau_bord_directeur.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-09 11:00:31] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-09 16:34:19] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-09 16:34:23] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-09 16:35:01] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-09 16:35:06] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-09 16:35:21] access_denied | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/gestion_seances.php?ajax=1&unite_id=61&unite_nom=Organisation+d%27entreprise&annee_scolaire_id=1 | Accès non autorisé.
+[2026-07-09 16:35:34] access_denied | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/gestion_seances.php?ajax=1&unite_id=34&unite_nom=Marketing+fondamental&annee_scolaire_id=1 | Accès non autorisé.
+[2026-07-09 16:35:36] access_denied | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/gestion_seances.php?unite_id=86&unite_nom=big+data&annee_scolaire_id=1 | Accès non autorisé.
+[2026-07-09 16:35:54] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-09 16:35:58] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-09 16:38:08] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-09 16:38:11] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-09 16:41:38] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-09 16:41:40] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-09 16:52:38] logout | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-09 16:52:44] logout | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-09 16:52:49] login_success | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bettioui.hajar@epim.ma
+[2026-07-09 16:54:00] logout | user=bettioui hajar | role=formateur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/logout.php | 
+[2026-07-09 16:54:05] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-10 01:32:44] session_expired | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/edition_etats.php | 
+[2026-07-10 01:32:45] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/edition_etats.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-10 01:33:04] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
+[2026-07-10 10:54:17] access_denied | user=- | role=- | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/edition_etats.php | Votre session a expiré. Veuillez vous reconnecter.
+[2026-07-10 10:54:28] login_success | user=Hamza Bourkha | role=directeur | ip=::1 | uri=/STAGE/codex%20vers/sp%20-%20Server%20v1/index.php | email=bourkha.hamza@epim.ma
