@@ -64,10 +64,6 @@ La documentation complète de reprise est disponible dans :
 
 - `DEVELOPER_GUIDE.md`
 
-La documentation technique historique et détaillée se trouve dans :
-
-- `docs/`
-
 ## Export Excel
 
 L'export annuel utilise le modèle officiel :
